@@ -18,6 +18,7 @@ export class Cliente {
     sexo: string,
     fechaNacimiento: string
   ) {
+    
     this.id = id;
     this.documento = documento;
     this.email = email;
@@ -25,5 +26,6 @@ export class Cliente {
     this.apellidos = apellidos;
     this.sexo = sexo;
     this.fechaNacimiento = fechaNacimiento;
+    
   }
 }
