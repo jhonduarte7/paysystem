@@ -12,7 +12,7 @@ export class FooterComponent implements OnInit {
   ngOnInit() {
   }
 
-  public pie: any = {name:'Sistema de Laboratorio LIS', autor:'CL TECH'};
+  public pie: any = {name:'Extintores Equi- Extin', autor:'c.a'};
 
 
 }
